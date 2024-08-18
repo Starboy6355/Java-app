@@ -1,3 +1,3 @@
-## DevOps Project for Beginners   
+## DevOps Project
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+[![Image](https://www.google.com/search?sca_esv=54bfe7656d53f3fd&sca_upv=1&rlz=1C1ONGR_enIN1123&sxsrf=ADLYWIJqkd6aLQtUTDZvvjNDuXdXIeIz6A:1723956519577&q=x+men&udm=2&fbs=AEQNm0B8dVdIWR07uWWlg1TdKnNtA1cwMugrQsIKmAo5AEZHWRFlUeGLxYlhagMfUatSvHu3MSamP9Qd2SfjyZyVIdPFrZFmdorP0BQX-5QUvERZ7CgntLysKxPYR85LNkkQ-ODVQlzCBgHDwYGwBEtb1wyzIiqYOAGOFOhRLG73H-MUdJY1ZFjTgiSsk2gQgTHDHU_Mnn5ewYy4nGfZAENFgsXyYdMtYQ&sa=X&ved=2ahUKEwjVp9S_3v2HAxXYoWMGHZMEMc4QtKgLegQIFRAB&biw=1280&bih=551&dpr=1.5#vhid=LIWMffNlhEfW2M&vssid=mosaic)
